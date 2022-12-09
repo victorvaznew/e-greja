@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "E-greja",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
